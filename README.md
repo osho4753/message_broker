@@ -1,6 +1,4 @@
-# Backend Developer Programming Assignment
-
-## Overview
+# Overview
 
 This project consists of two microservices: a **Simulated IoT Device** (Producer) and a **Consumer**, communicating over RabbitMQ. The services are built using **TypeScript** and run locally via **Docker Compose**.
 
