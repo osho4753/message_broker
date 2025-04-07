@@ -1,0 +1,28 @@
+# node_modules
+node_modules/
+
+# TypeScript directory files
+dist/
+
+# logs
+*.log
+
+# Тemporary files
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# yml configuration files
+docker-compose.override.yml
+
+# Environment files
+.env
+
+# IDE files
+.idea/
+.vscode/
+
+# ОС files
+.DS_Store
+Thumbs.db
